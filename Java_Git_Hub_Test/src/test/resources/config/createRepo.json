@@ -1,0 +1,9 @@
+{
+  "name": "Example_Repo",
+  "description": "This is your first repository",
+  "homepage": "https://github.com",
+  "private": false,
+  "has_issues": true,
+  "has_wiki": true,
+  "has_downloads": true
+}

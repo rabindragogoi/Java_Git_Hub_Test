@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="dmleContentTest" duration-ms="0" started-at="2016-10-15T07:20:13Z" finished-at="2016-10-15T07:20:13Z">
+    <groups>
+    </groups>
+  </suite> <!-- dmleContentTest -->
+  <suite name="Vimpelcom" duration-ms="4669" started-at="2016-10-15T07:20:09Z" finished-at="2016-10-15T07:20:13Z">
+    <groups>
+    </groups>
+    <test name="CreateRepo" duration-ms="4669" started-at="2016-10-15T07:20:09Z" finished-at="2016-10-15T07:20:13Z">
+      <class name="com.vimpelcom.test.CreateRepo">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.vimpelcom.test.CreateRepo@724af044]" name="beforeSuite" is-config="true" duration-ms="68" started-at="2016-10-15T12:50:08Z" finished-at="2016-10-15T12:50:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="createRepoTest()[pri:0, instance:com.vimpelcom.test.CreateRepo@724af044]" name="createRepoTest" duration-ms="4662" started-at="2016-10-15T12:50:09Z" finished-at="2016-10-15T12:50:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createRepoTest -->
+        <test-method status="PASS" signature="beforeCreateRepo()[pri:0, instance:com.vimpelcom.test.CreateRepo@724af044]" name="beforeCreateRepo" is-config="true" duration-ms="0" started-at="2016-10-15T12:50:09Z" finished-at="2016-10-15T12:50:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeCreateRepo -->
+        <test-method status="PASS" signature="afterCreateTest()[pri:0, instance:com.vimpelcom.test.CreateRepo@724af044]" name="afterCreateTest" is-config="true" duration-ms="0" started-at="2016-10-15T12:50:13Z" finished-at="2016-10-15T12:50:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterCreateTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.vimpelcom.test.CreateRepo@724af044]" name="afterSuite" is-config="true" duration-ms="0" started-at="2016-10-15T12:50:13Z" finished-at="2016-10-15T12:50:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.vimpelcom.test.CreateRepo -->
+    </test> <!-- CreateRepo -->
+  </suite> <!-- Vimpelcom -->
+</testng-results>

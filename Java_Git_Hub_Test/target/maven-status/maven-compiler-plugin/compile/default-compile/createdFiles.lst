@@ -1,0 +1,7 @@
+com\vimpelcom\test\CreateRepo.class
+com\vimpelcom\test\Suite_Git_Repo.class
+com\vimpelcom\test\DeleteRepo.class
+com\vimpelcom\common\RepoPresentCheck.class
+com\vimpelcom\common\BaseConfiguration.class
+com\vimpelcom\common\Constants.class
+com\vimpelcom\exception\GitExampleException.class

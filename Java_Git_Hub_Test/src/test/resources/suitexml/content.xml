@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Vimpelcom">
+	<test name="CreateRepo">
+		<classes>
+			<class name="com.vimpelcom.test.CreateRepo"></class>
+		</classes>
+	</test>
+
+	<test name="DeleteRepo">
+		<classes>
+			<class name="com.vimpelcom.test.DeleteRepo"></class>
+		</classes>
+	</test>
+
+</suite>
+
