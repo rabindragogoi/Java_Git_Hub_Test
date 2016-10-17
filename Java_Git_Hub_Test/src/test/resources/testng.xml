@@ -4,7 +4,7 @@ To change this template, choose Tools | Templates
 and open the template in the editor.
 -->
 
-<suite name="dmleContentTest">
+<suite name="vimpelcom">
 <suite-files>   
    <suite-file path="src/test/resources/suitexml/content.xml" />
  </suite-files>
